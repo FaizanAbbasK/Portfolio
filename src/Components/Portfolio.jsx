@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/a.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Faizan Abbas";
 
 /**
  * Project list
@@ -37,16 +37,16 @@ const projectList = [
     url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
   },
   {
-    title: "Web Development for Beginners",
+    title: "CUI AIDER",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "App made through Flutter, available on most OS(Android,iOS,Windows) it aids the students of CUI Sahiwal by Providing them with thei university's student portal, The university's VR map is also available so that no one gets lost, The GPA calculator that calculates the GPA as per expected or announced marks in tasks, mids and finals including labs and a Search Tab that aids you in finding labs/classes/Offices.",
+    // url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
+    title: "Record Keeper",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "An App that lets the user store any sort of data with details, position, picture, description etc and if you have logged in into another device you get your data sync. across you signed in devices.",
+    // url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
     title: "GitHub Codespaces and github.dev",
