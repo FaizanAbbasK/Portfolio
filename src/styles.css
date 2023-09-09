@@ -47,7 +47,7 @@ section img.background {
 
 h1 {
   font-family: "Cormorant Garamond", serif;
-  font-size: 15rem;
+  font-size: 7rem;
   font-weight: 400;
   line-height: 0.8;
   margin: 0;
@@ -124,7 +124,7 @@ img.socialIcon {
   height: 30px;
   width: 30px;
 }
-@keyframes slideInLeft {
+/* @keyframes slideInLeft {
   0% {
     transform: translateX(-100%);
   }
@@ -134,4 +134,4 @@ img.socialIcon {
 }
 html {
   scroll-behavior: smooth;
-}
+} */
